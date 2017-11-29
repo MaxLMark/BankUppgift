@@ -1,0 +1,14 @@
+Datum: 10/9/2017 10:27:42 AM - Konto: 13384 - Summa: 400.00 - Till konto:  - Typ: Deposit
+Datum: 10/9/2017 10:27:58 AM - Konto: 13384 - Summa: 200.00 - Till konto:  - Typ: Withdraw
+Datum: 10/9/2017 10:34:39 AM - Konto: 13036 - Summa: 88.50 - Till konto: 13037 - Typ: Transfer
+Datum: 10/9/2017 10:36:37 AM - Konto: 13023 - Summa: 174.90 - Till konto: 13019 - Typ: Transfer
+Datum: 10/9/2017 11:16:17 AM - Konto: 13036 - Summa: 88.00 - Till konto:  - Typ: Withdraw
+Datum: 10/9/2017 11:16:43 AM - Konto: 13036 - Summa: .50 - Till konto:  - Typ: Withdraw
+Datum: 10/9/2017 11:19:17 AM - Konto: 13036 - Summa: 88.50 - Till konto:  - Typ: Withdraw
+Datum: 2017-10-09 11:45:19 - Konto: 13384 - Summa: 1000,00 - Till konto:  - Typ: Deposit
+Datum: 2017-10-09 11:46:01 - Konto: 13384 - Summa: 500,00 - Till konto:  - Typ: Withdraw
+Datum: 2017-10-09 11:46:26 - Konto: 13384 - Summa: 250,00 - Till konto: 13383 - Typ: Transfer
+Datum: 2017-10-09 11:47:21 - Konto: 13384 - Summa: 250,00 - Till konto:  - Typ: Withdraw
+Datum: 2017-10-09 11:47:55 - Konto: 13383 - Summa: 250,00 - Till konto:  - Typ: Withdraw
+Datum: 2017-10-09 12:04:53 - Konto: 13384 - Summa: 300,00 - Till konto:  - Typ: Withdraw
+Datum: 2017-10-09 19:10:30 - Konto: 13366 - Summa: 517,80 - Till konto:  - Typ: Withdraw

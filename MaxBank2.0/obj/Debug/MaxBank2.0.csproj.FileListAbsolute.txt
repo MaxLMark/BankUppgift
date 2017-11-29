@@ -1,0 +1,12 @@
+C:\Users\Max\source\repos\MaxBank2.0\MaxBank2.0\bin\Debug\MaxBank2.0.exe.config
+C:\Users\Max\source\repos\MaxBank2.0\MaxBank2.0\bin\Debug\MaxBank2.0.exe
+C:\Users\Max\source\repos\MaxBank2.0\MaxBank2.0\bin\Debug\MaxBank2.0.pdb
+C:\Users\Max\source\repos\MaxBank2.0\MaxBank2.0\obj\Debug\MaxBank2.0.csprojResolveAssemblyReference.cache
+C:\Users\Max\source\repos\MaxBank2.0\MaxBank2.0\obj\Debug\MaxBank2.0.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\MaxBank2.0\MaxBank2.0\obj\Debug\MaxBank2.0.exe
+C:\Users\Max\source\repos\MaxBank2.0\MaxBank2.0\obj\Debug\MaxBank2.0.pdb
+C:\Users\simpir.SALTSEA\Downloads\MaxBank2.0\MaxBank2.0\MaxBank2.0\bin\Debug\MaxBank2.0.exe.config
+C:\Users\simpir.SALTSEA\Downloads\MaxBank2.0\MaxBank2.0\MaxBank2.0\obj\Debug\MaxBank2.0.exe
+C:\Users\simpir.SALTSEA\Downloads\MaxBank2.0\MaxBank2.0\MaxBank2.0\obj\Debug\MaxBank2.0.pdb
+C:\Users\simpir.SALTSEA\Downloads\MaxBank2.0\MaxBank2.0\MaxBank2.0\bin\Debug\MaxBank2.0.exe
+C:\Users\simpir.SALTSEA\Downloads\MaxBank2.0\MaxBank2.0\MaxBank2.0\bin\Debug\MaxBank2.0.pdb
